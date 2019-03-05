@@ -1,0 +1,52 @@
+TODO
++++
+-tie detection: press sort; if tie, window pops up telling user who tied
+++
+-masterlist search by text function
+-variable size windows
+-save every combat list, including datetime
+-load a specific combat
+-when clicking init button in combatView, initField should be automatically selected
++
+-make delete confirmation view nicer
+-dead button (skull) in combatView
+-FrontendController
+	-getCheckmarkImage()
+-Unique entries into masterList based on... everything (no, stats can change)?
+-add character mid combat
+-alive/dead boolean variable
+-gson
+-help button; one in each window
+-replace text on buttons with images
+-description textfield (make it a HBox underneath the gridpane)
+
+
+COMPLETE
+X-CombatView: up and down arrows that swaps selected char with char above or below
+X-make popup windows look better
+X-implement initiative!!!
+	X-edit initiative within combat view (like editing ac in detailView)
+X-BUG:duplicates are not part of the combatList, they cannot be scrolled to
+X-sort masterlist alphbetically
+X-duplicate character for combatList (ie. 3 goblins)
+	-X"duplicate" button within combat view
+	-Xcan only duplicate NONPLAYER characters
+X-make Character.java a superclass and have 2 classes (enemy and ally) implement it
+	-not necessary since enemy and ally are essentially the same
+X-populate master list from json file
+	1) create character
+	2) char added to json file
+	3) masterList reads json file and updates
+X-Detailed character screen
+X-"Are you sure you want to delete" dialog
+X-"Delete" and "Details" buttons only show up when list is populated
+X-CharacterDetailView should be a popup
+X-combatView is not clearing the list .. because i'm clearing a copy
+X-CombatView might have to be a gridpane instead of borderpane
+X-Edit character within CharacterDetailView
+X-Round counter
+X-Die roller
+X-set AC on character creation
+X-make main menu prettier
+X-fix error: when editing AC, make AC button a label (unclickable)
+X-closeEditACButton in CharacterDetailView should be a little check mark - not satisfied

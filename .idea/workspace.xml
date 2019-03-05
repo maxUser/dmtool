@@ -1,0 +1,1213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08912f0f-2a7c-4b58-9e2d-bfc15c3c34de" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backend/BackendController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1350">
+              <caret line="92" column="36" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="36" />
+              <folding>
+                <element signature="e#2726#2727#0" expanded="true" />
+                <element signature="e#2770#2771#0" expanded="true" />
+                <element signature="e#2832#2833#0" expanded="true" />
+                <element signature="e#2879#2880#0" expanded="true" />
+                <element signature="e#3093#3094#0" expanded="true" />
+                <element signature="e#3137#3138#0" expanded="true" />
+                <element signature="e#3185#3186#0" expanded="true" />
+                <element signature="e#3232#3233#0" expanded="true" />
+                <element signature="e#5244#5245#0" expanded="true" />
+                <element signature="e#5288#5289#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/frontend/CombatView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="276" column="52" selection-start-line="276" selection-start-column="52" selection-end-line="276" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backend/Model.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backend/TieGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+              <folding>
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backend/Character.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/frontend/MasterListView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1296">
+              <caret line="89" column="20" selection-start-line="89" selection-start-column="20" selection-end-line="89" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getscene</find>
+      <find>fileName</find>
+      <find>getScene</find>
+      <find>listScene</find>
+      <find>fc</find>
+      <find>b1</find>
+      <find>mainMenu</find>
+      <find>populateMasterList</find>
+      <find>bc</find>
+      <find>selection</find>
+      <find>stylesh</find>
+      <find>charName</find>
+      <find>charNameLabel</find>
+      <find>padding</find>
+      <find>start co</find>
+      <find>start</find>
+      <find>initButton</find>
+      <find>d20input</find>
+      <find>duplica</find>
+      <find>acLabel</find>
+      <find>initField</find>
+      <find>roll '</find>
+      <find>d4input</find>
+      <find>sort</find>
+      <find>selectfi</find>
+      <find>populatecomb</find>
+      <find>getselectedit</find>
+      <find>Collections</find>
+      <find>&quot;\n&quot;</find>
+      <find>initsort</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/backend/CharacterType.java" />
+        <option value="$PROJECT_DIR$/src/backend/Controller.java" />
+        <option value="$PROJECT_DIR$/src/frontend/newScene.java" />
+        <option value="$PROJECT_DIR$/src/frontend/CharacterListView.java" />
+        <option value="$PROJECT_DIR$/src/backend/FileSave.java" />
+        <option value="$PROJECT_DIR$/src/backend/Save.java" />
+        <option value="$PROJECT_DIR$/src/backend/Driver.java" />
+        <option value="$PROJECT_DIR$/src/frontend/Main.java" />
+        <option value="$PROJECT_DIR$/src/frontend/CharacterDetail.java" />
+        <option value="$PROJECT_DIR$/src/frontend/GenerateVBox.java" />
+        <option value="$PROJECT_DIR$/src/backend/BackendControllerTest.java" />
+        <option value="$PROJECT_DIR$/scene_switching/Victoria.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/Victoria.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/Journey.java" />
+        <option value="$PROJECT_DIR$/src/frontend/Scene1.java" />
+        <option value="$PROJECT_DIR$/src/frontend/Scene3.java" />
+        <option value="$PROJECT_DIR$/src/frontend/Scene2.java" />
+        <option value="$PROJECT_DIR$/src/frontend/FrontendController.java" />
+        <option value="$PROJECT_DIR$/src/backend/LaunchApp.java" />
+        <option value="$PROJECT_DIR$/src/frontend/GenerateBorderPane.java" />
+        <option value="$PROJECT_DIR$/src/frontend/CombatListView.java" />
+        <option value="$PROJECT_DIR$/src/frontend/GenerateGridPane.java" />
+        <option value="$PROJECT_DIR$/src/frontend/MainMenuView.java" />
+        <option value="$PROJECT_DIR$/src/frontend/GenerateHBox.java" />
+        <option value="$PROJECT_DIR$/src/frontend/ConfirmBox.java" />
+        <option value="$PROJECT_DIR$/src/backend/EditJSON.java" />
+        <option value="$PROJECT_DIR$/src/frontend/CreateCharacterView.java" />
+        <option value="$PROJECT_DIR$/src/frontend/AlertBox.java" />
+        <option value="$PROJECT_DIR$/src/backend/Character.java" />
+        <option value="$PROJECT_DIR$/src/backend/CharacterComparator.java" />
+        <option value="$PROJECT_DIR$/src/frontend/CharacterDetailView.java" />
+        <option value="$PROJECT_DIR$/src/backend/BackendController.java" />
+        <option value="$PROJECT_DIR$/src/backend/CharacterInitSortComparator.java" />
+        <option value="$PROJECT_DIR$/src/frontend/MasterListView.java" />
+        <option value="$PROJECT_DIR$/src/backend/Model.java" />
+        <option value="$PROJECT_DIR$/src/backend/TieGroup.java" />
+        <option value="$PROJECT_DIR$/src/frontend/CombatView.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1164" />
+    <option name="height" value="839" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showExcludedFiles Scope="true" ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="initiator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="initiator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="initiator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="initiator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="initiator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="initiator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="initiator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="initiator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551763873750" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.statistic.project.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="backend" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LaunchApp">
+    <configuration name="CreateCharacterView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frontend.CreateCharacterView" />
+      <module name="initiator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="frontend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backend.Driver" />
+      <module name="initiator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="backend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LaunchApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backend.LaunchApp" />
+      <module name="initiator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="backend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Journey" type="Java Scratch" factoryName="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Journey" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Journey" type="Java Scratch" factoryName="Java Scratch" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Journey" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/Journey.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CreateCharacterView" />
+      <item itemvalue="Application.Driver" />
+      <item itemvalue="Application.LaunchApp" />
+      <item itemvalue="Java Scratch.Journey" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LaunchApp" />
+        <item itemvalue="Java Scratch.Journey" />
+        <item itemvalue="Java Scratch.Journey" />
+        <item itemvalue="Application.Driver" />
+        <item itemvalue="Application.CreateCharacterView" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08912f0f-2a7c-4b58-9e2d-bfc15c3c34de" name="Default Changelist" comment="" />
+      <created>1543950257938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543950257938</updated>
+      <workItem from="1543950260500" duration="39851000" />
+      <workItem from="1544417453928" duration="46000" />
+      <workItem from="1544417537703" duration="5531000" />
+      <workItem from="1545284958980" duration="184000" />
+      <workItem from="1545362210393" duration="17000" />
+      <workItem from="1545427855527" duration="55000" />
+      <workItem from="1545457688249" duration="76847000" />
+      <workItem from="1547609303795" duration="28000" />
+      <workItem from="1547609375819" duration="5268000" />
+      <workItem from="1547879412311" duration="16637000" />
+      <workItem from="1548220057653" duration="6373000" />
+      <workItem from="1548387441375" duration="9000" />
+      <workItem from="1548646897739" duration="44123000" />
+      <workItem from="1550370003642" duration="35000" />
+      <workItem from="1550370076500" duration="10623000" />
+      <workItem from="1550780516487" duration="9823000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="215450000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1164" height="839" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Designer" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49902534" weight="0.19875222" />
+      <window_info id="Structure" order="6" sideWeight="0.50097466" side_tool="true" weight="0.14449213" />
+      <window_info anchor="bottom" id="Statistic" weight="0.32931727" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32797858" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50178254" side_tool="true" weight="0.26639894" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.19946453" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Duplicate detector" order="6" weight="0.32797858" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32797858" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49821746" weight="0.26639894" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.28647926" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.32931727" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" weight="0.32931727" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" weight="0.32976827" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32954547" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24964234" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Designer" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49902534" visible="true" weight="0.12660944" />
+      <window_info id="Structure" order="6" sideWeight="0.50097466" side_tool="true" weight="0.14449213" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32891566" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5007153" side_tool="true" weight="0.26639894" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.19946453" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Duplicate detector" order="6" weight="0.32797858" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32797858" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.49928468" visible="true" weight="0.26639894" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.28647926" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.32931727" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3297568" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24964234" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/javafx-src.zip!/javafx/application/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="304" column="25" selection-start-line="304" selection-start-column="25" selection-end-line="304" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/io/ObjectOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="1183" selection-start-line="1183" selection-end-line="1183" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backend/FileSave.java" />
+    <entry file="file://$PROJECT_DIR$/src/backend/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="34" column="27" lean-forward="true" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1102#1103#0" expanded="true" />
+            <element signature="e#1142#1143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backend/CharacterType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/backend">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>backend</OriginalElement>
+          <nodes>
+            <node x="10.5" y="313.0">backend.EditJSON</node>
+            <node x="331.5" y="335.0">backend.Model</node>
+            <node x="195.70386904761907" y="0.0">backend.CharacterType</node>
+            <node x="339.8125" y="825.0">backend.LaunchApp</node>
+            <node x="197.49479166666669" y="123.0">backend.Character</node>
+            <node x="84.92336309523807" y="503.0">backend.BackendController</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="backend.LaunchApp" target="backend.BackendController">
+              <point x="-23.0" y="-36.5" />
+              <point x="408.8125" y="795.0" />
+              <point x="348.1733630952381" y="795.0" />
+              <point x="87.75" y="136.0" />
+            </edge>
+            <edge source="backend.Model" target="backend.Character">
+              <point x="0.0" y="-48.0" />
+              <point x="467.0" y="288.0" />
+              <point x="391.7447916666667" y="288.0" />
+              <point x="83.25" y="70.0" />
+            </edge>
+            <edge source="backend.Character" target="backend.CharacterType">
+              <point x="-55.5" y="-70.0" />
+              <point x="252.99479166666669" y="98.0" />
+              <point x="264.70386904761904" y="98.0" />
+              <point x="0.0" y="36.5" />
+            </edge>
+            <edge source="backend.BackendController" target="backend.Character">
+              <point x="50.14285714285717" y="-136.0" />
+              <point x="310.56622023809524" y="483.0" />
+              <point x="321.0" y="483.0" />
+              <point x="321.0" y="288.0" />
+              <point x="336.2447916666667" y="288.0" />
+              <point x="27.75" y="70.0" />
+            </edge>
+            <edge source="backend.BackendController" target="backend.EditJSON">
+              <point x="-100.28571428571428" y="-136.0" />
+              <point x="160.1376488095238" y="473.0" />
+              <point x="82.75" y="473.0" />
+              <point x="-72.25" y="70.0" />
+            </edge>
+            <edge source="backend.BackendController" target="backend.CharacterType">
+              <point x="-150.42857142857144" y="-136.0" />
+              <point x="109.99479166666663" y="483.0" />
+              <point x="0.0" y="483.0" />
+              <point x="0.0" y="98.0" />
+              <point x="218.70386904761907" y="98.0" />
+              <point x="-46.0" y="36.5" />
+            </edge>
+            <edge source="backend.BackendController" target="backend.Model">
+              <point x="150.42857142857144" y="-136.0" />
+              <point x="410.8519345238095" y="483.0" />
+              <point x="433.125" y="483.0" />
+              <point x="-33.875" y="48.0" />
+            </edge>
+            <edge source="backend.EditJSON" target="backend.Character">
+              <point x="0.0" y="-70.0" />
+              <point x="155.0" y="288.0" />
+              <point x="225.24479166666669" y="288.0" />
+              <point x="-83.25" y="70.0" />
+            </edge>
+            <edge source="backend.LaunchApp" target="backend.Model">
+              <point x="69.0" y="-36.5" />
+              <point x="500.8125" y="805.0" />
+              <point x="519.8169642857142" y="805.0" />
+              <point x="519.8169642857142" y="483.0" />
+              <point x="568.625" y="483.0" />
+              <point x="101.625" y="48.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="69.0" y="541.0" />
+          <SelectedNodes>
+            <node>backend.EditJSON</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="450.625" y="446.0">frontend.MasterListView</node>
+            <node x="271.0" y="208.0">backend.EditJSON</node>
+            <node x="552.0" y="208.0">frontend.GenerateVBox</node>
+            <node x="58.5" y="297.0">frontend.AlertBox</node>
+            <node x="255.5813301282049" y="0.0">backend.CharacterType</node>
+            <node x="187.99999999999994" y="614.0">backend.LaunchApp</node>
+            <node x="410.0" y="297.0">frontend.ConfirmBox</node>
+            <node x="179.5" y="297.0">backend.BackendController</node>
+            <node x="3.1666666666666288" y="208.0">backend.Model</node>
+            <node x="154.0" y="446.0">frontend.Main</node>
+            <node x="862.3122882326007" y="446.0">frontend.CreateCharacterView</node>
+            <node x="923.3122882326007" y="535.0">frontend.newScene</node>
+            <node x="314.51864125457854" y="89.0">backend.Character</node>
+            <node x="758.9250801282049" y="208.0">frontend.GenerateGridPane</node>
+            <node x="438.625" y="535.0">frontend.FrontendController</node>
+            <node x="631.0" y="297.0">frontend.CharacterDetailView</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="frontend.MasterListView" target="frontend.CharacterDetailView">
+              <point x="44.0625" y="-14.5" />
+              <point x="565.1875" y="406.0" />
+              <point x="716.5" y="406.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="frontend.Main" target="frontend.GenerateGridPane">
+              <point x="33.0" y="-14.5" />
+              <point x="225.5" y="416.0" />
+              <point x="812.5" y="416.0" />
+              <point x="812.5" y="277.0" />
+              <point x="806.9250801282049" y="277.0" />
+              <point x="-32.0" y="14.5" />
+            </edge>
+            <edge source="frontend.CharacterDetailView" target="backend.Character">
+              <point x="0.0" y="-14.5" />
+              <point x="716.5" y="158.0" />
+              <point x="392.51864125457854" y="158.0" />
+              <point x="24.0" y="14.5" />
+            </edge>
+            <edge source="frontend.Main" target="backend.Model">
+              <point x="-22.0" y="-14.5" />
+              <point x="170.5" y="416.0" />
+              <point x="48.0" y="416.0" />
+              <point x="48.0" y="277.0" />
+              <point x="52.74999999999994" y="277.0" />
+              <point x="7.083333333333314" y="14.5" />
+            </edge>
+            <edge source="backend.BackendController" target="backend.EditJSON">
+              <point x="46.28571428571428" y="-14.5" />
+              <point x="306.7857142857143" y="267.0" />
+              <point x="351.25" y="267.0" />
+              <point x="26.75" y="14.5" />
+            </edge>
+            <edge source="frontend.FrontendController" target="frontend.CreateCharacterView">
+              <point x="72.1875" y="-14.5" />
+              <point x="593.3125" y="515.0" />
+              <point x="891.8122882326007" y="515.0" />
+              <point x="-59.0" y="14.5" />
+            </edge>
+            <edge source="frontend.MasterListView" target="frontend.ConfirmBox">
+              <point x="-8.8125" y="-14.5" />
+              <point x="512.3125" y="406.0" />
+              <point x="500.75" y="406.0" />
+              <point x="30.25" y="14.5" />
+            </edge>
+            <edge source="frontend.MasterListView" target="backend.BackendController">
+              <point x="-61.6875" y="-14.5" />
+              <point x="459.4375" y="376.0" />
+              <point x="296.5" y="376.0" />
+              <point x="36.0" y="14.5" />
+            </edge>
+            <edge source="frontend.MasterListView" target="frontend.GenerateVBox">
+              <point x="26.4375" y="-14.5" />
+              <point x="547.5625" y="396.0" />
+              <point x="620.5" y="396.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="frontend.FrontendController" target="backend.BackendController">
+              <point x="-72.1875" y="-14.5" />
+              <point x="448.9375" y="515.0" />
+              <point x="286.59006982600715" y="515.0" />
+              <point x="286.59006982600715" y="396.0" />
+              <point x="260.5" y="396.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="backend.LaunchApp" target="backend.Model">
+              <point x="-29.5" y="-14.5" />
+              <point x="217.49999999999994" y="584.0" />
+              <point x="26.0" y="584.0" />
+              <point x="26.0" y="277.0" />
+              <point x="24.41666666666663" y="277.0" />
+              <point x="-21.25" y="14.5" />
+            </edge>
+            <edge source="frontend.Main" target="frontend.ConfirmBox">
+              <point x="22.0" y="-14.5" />
+              <point x="214.5" y="406.0" />
+              <point x="440.25" y="406.0" />
+              <point x="-30.25" y="14.5" />
+            </edge>
+            <edge source="frontend.FrontendController" target="frontend.GenerateGridPane">
+              <point x="51.5625" y="-14.5" />
+              <point x="572.6875" y="505.0" />
+              <point x="851.0622882326007" y="505.0" />
+              <point x="851.0622882326007" y="277.0" />
+              <point x="870.9250801282049" y="277.0" />
+              <point x="32.0" y="14.5" />
+            </edge>
+            <edge source="frontend.FrontendController" target="frontend.MasterListView">
+              <point x="-30.9375" y="-14.5" />
+              <point x="490.1875" y="495.0" />
+              <point x="468.25" y="495.0" />
+              <point x="-52.875" y="14.5" />
+            </edge>
+            <edge source="frontend.CharacterDetailView" target="frontend.GenerateGridPane">
+              <point x="57.0" y="-14.5" />
+              <point x="773.5" y="277.0" />
+              <point x="774.9250801282049" y="277.0" />
+              <point x="-64.0" y="14.5" />
+            </edge>
+            <edge source="frontend.CharacterDetailView" target="frontend.GenerateVBox">
+              <point x="-57.0" y="-14.5" />
+              <point x="659.5" y="277.0" />
+              <point x="666.1666666666666" y="277.0" />
+              <point x="45.66666666666663" y="14.5" />
+            </edge>
+            <edge source="backend.Character" target="backend.CharacterType">
+              <point x="27.0" y="-14.5" />
+              <point x="395.51864125457854" y="59.0" />
+              <point x="341.8313301282049" y="59.0" />
+              <point x="17.25" y="14.5" />
+            </edge>
+            <edge source="backend.BackendController" target="backend.Character">
+              <point x="0.0" y="-14.5" />
+              <point x="260.5" y="178.0" />
+              <point x="332.51864125457854" y="178.0" />
+              <point x="-36.0" y="14.5" />
+            </edge>
+            <edge source="frontend.ConfirmBox" target="frontend.GenerateVBox">
+              <point x="0.0" y="-14.5" />
+              <point x="470.5" y="277.0" />
+              <point x="574.8333333333334" y="277.0" />
+              <point x="-45.66666666666663" y="14.5" />
+            </edge>
+            <edge source="frontend.Main" target="frontend.AlertBox">
+              <point x="-11.0" y="-14.5" />
+              <point x="181.5" y="406.0" />
+              <point x="109.0" y="406.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="backend.LaunchApp" target="frontend.FrontendController">
+              <point x="29.5" y="-14.5" />
+              <point x="276.49999999999994" y="584.0" />
+              <point x="479.875" y="584.0" />
+              <point x="-41.25" y="14.5" />
+            </edge>
+            <edge source="backend.BackendController" target="backend.CharacterType">
+              <point x="-23.142857142857167" y="-14.5" />
+              <point x="237.35714285714283" y="257.0" />
+              <point x="176.45833333333331" y="257.0" />
+              <point x="176.45833333333331" y="69.0" />
+              <point x="272.8313301282049" y="69.0" />
+              <point x="-51.75" y="14.5" />
+            </edge>
+            <edge source="frontend.newScene" target="frontend.CreateCharacterView">
+              <point x="27.5" y="-14.5" />
+              <point x="1005.8122882326007" y="515.0" />
+              <point x="1009.8122882326008" y="515.0" />
+              <point x="59.000000000000114" y="14.5" />
+            </edge>
+            <edge source="frontend.CreateCharacterView" target="backend.BackendController">
+              <point x="-70.79999999999984" y="-14.5" />
+              <point x="880.0122882326009" y="346.0" />
+              <point x="332.5" y="346.0" />
+              <point x="72.0" y="14.5" />
+            </edge>
+            <edge source="frontend.MasterListView" target="frontend.FrontendController">
+              <point x="17.625" y="14.5" />
+              <point x="538.75" y="515.0" />
+              <point x="531.4375" y="515.0" />
+              <point x="10.3125" y="-14.5" />
+            </edge>
+            <edge source="backend.LaunchApp" target="backend.BackendController">
+              <point x="-9.833333333333314" y="-14.5" />
+              <point x="237.16666666666663" y="594.0" />
+              <point x="241.5" y="594.0" />
+              <point x="241.5" y="396.0" />
+              <point x="224.5" y="396.0" />
+              <point x="-36.0" y="14.5" />
+            </edge>
+            <edge source="backend.Model" target="backend.Character">
+              <point x="0.0" y="-14.5" />
+              <point x="45.66666666666663" y="168.0" />
+              <point x="320.51864125457854" y="168.0" />
+              <point x="-48.0" y="14.5" />
+            </edge>
+            <edge source="frontend.CreateCharacterView" target="frontend.GenerateGridPane">
+              <point x="-35.399999999999864" y="-14.5" />
+              <point x="915.4122882326009" y="426.0" />
+              <point x="905.5690418956043" y="426.0" />
+              <point x="905.5690418956043" y="277.0" />
+              <point x="902.9250801282049" y="277.0" />
+              <point x="64.0" y="14.5" />
+            </edge>
+            <edge source="frontend.CreateCharacterView" target="backend.Character">
+              <point x="35.40000000000009" y="-14.5" />
+              <point x="986.2122882326008" y="426.0" />
+              <point x="956.0186412545786" y="426.0" />
+              <point x="956.0186412545786" y="138.0" />
+              <point x="416.51864125457854" y="138.0" />
+              <point x="48.0" y="14.5" />
+            </edge>
+            <edge source="frontend.MasterListView" target="backend.Character">
+              <point x="8.8125" y="-14.5" />
+              <point x="529.9375" y="406.0" />
+              <point x="541.5" y="406.0" />
+              <point x="541.5" y="168.0" />
+              <point x="380.51864125457854" y="168.0" />
+              <point x="12.0" y="14.5" />
+            </edge>
+            <edge source="frontend.CreateCharacterView" target="backend.CharacterType">
+              <point x="70.80000000000007" y="-14.5" />
+              <point x="1021.6122882326008" y="416.0" />
+              <point x="967.0186412545786" y="416.0" />
+              <point x="967.0186412545786" y="49.0" />
+              <point x="376.3313301282049" y="49.0" />
+              <point x="51.75" y="14.5" />
+            </edge>
+            <edge source="frontend.MasterListView" target="frontend.GenerateGridPane">
+              <point x="61.6875" y="-14.5" />
+              <point x="582.8125" y="426.0" />
+              <point x="835.9060382326007" y="426.0" />
+              <point x="835.9060382326007" y="277.0" />
+              <point x="838.9250801282049" y="277.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="backend.BackendController" target="backend.Model">
+              <point x="-46.285714285714334" y="-14.5" />
+              <point x="214.21428571428567" y="267.0" />
+              <point x="81.08333333333326" y="267.0" />
+              <point x="35.41666666666666" y="14.5" />
+            </edge>
+            <edge source="frontend.Main" target="backend.BackendController">
+              <point x="11.0" y="-14.5" />
+              <point x="203.5" y="426.0" />
+              <point x="206.5" y="426.0" />
+              <point x="-54.0" y="14.5" />
+            </edge>
+            <edge source="backend.EditJSON" target="backend.Character">
+              <point x="0.0" y="-14.5" />
+              <point x="324.5" y="188.0" />
+              <point x="344.51864125457854" y="188.0" />
+              <point x="-24.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="117.0" y="400.0" />
+          <SelectedNodes>
+            <node>frontend.ConfirmBox</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/BackendControllerTest.java" />
+    <entry file="file://$PROJECT_DIR$/scene_switching/Victoria.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Journey.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Victoria.java" />
+    <entry file="file://$PROJECT_DIR$/src/frontend/newScene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontend/Scene3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontend/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1907">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontend/Scene2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-111">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontend/Scene1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/javafx-src.zip!/com/sun/javafx/event/CompositeEventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/javafx-src.zip!/javafx/event/EventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontend/GenerateGridPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontend/GenerateBorderPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backend/LaunchApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontend/GenerateVBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="20" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontend/GenerateHBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontend/ConfirmBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/javafx-src.zip!/javafx/scene/control/SelectionModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="119" column="19" selection-start-line="119" selection-start-column="19" selection-end-line="119" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backend/EditJSON.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="34" column="54" lean-forward="true" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontend/CreateCharacterView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="126" column="8" selection-start-line="126" selection-start-column="8" selection-end-line="126" selection-end-column="71" />
+          <folding>
+            <element signature="e#661#692#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontend/AlertBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="e#153#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontend/MainMenuView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontend/MasterListView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="89" column="20" selection-start-line="89" selection-start-column="20" selection-end-line="89" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontend/CharacterDetailView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backend/CharacterAlphaSortComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backend/CharacterInitSortComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backend/BackendController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="92" column="36" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="36" />
+          <folding>
+            <element signature="e#2726#2727#0" expanded="true" />
+            <element signature="e#2770#2771#0" expanded="true" />
+            <element signature="e#2832#2833#0" expanded="true" />
+            <element signature="e#2879#2880#0" expanded="true" />
+            <element signature="e#3093#3094#0" expanded="true" />
+            <element signature="e#3137#3138#0" expanded="true" />
+            <element signature="e#3185#3186#0" expanded="true" />
+            <element signature="e#3232#3233#0" expanded="true" />
+            <element signature="e#5244#5245#0" expanded="true" />
+            <element signature="e#5288#5289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backend/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backend/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backend/TieGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+          <folding>
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontend/CombatView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="276" column="52" selection-start-line="276" selection-start-column="52" selection-end-line="276" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>initiator</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
