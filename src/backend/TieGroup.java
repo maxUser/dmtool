@@ -16,6 +16,10 @@ public class TieGroup {
         return initValue;
     }
 
+    public ArrayList<String> getTiedChars() {
+        return characters;
+    }
+
     public void addCharacter(String name) {
         characters.add(name);
     }
@@ -27,9 +31,4 @@ public class TieGroup {
         }
         System.out.println();
     }
-
-//    public String toString() {
-//        return
-//    }
-
 }

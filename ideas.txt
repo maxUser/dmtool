@@ -1,6 +1,6 @@
 TODO
 +++
--tie detection: press sort; if tie, window pops up telling user who tied
+-fix buttons spazzing out when hovered over (combatView)
 ++
 -masterlist search by text function
 -variable size windows
@@ -22,6 +22,7 @@ TODO
 
 
 COMPLETE
+X-tie detection: press sort; if tie, window pops up telling user who tied
 X-CombatView: up and down arrows that swaps selected char with char above or below
 X-make popup windows look better
 X-implement initiative!!!

@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08912f0f-2a7c-4b58-9e2d-bfc15c3c34de" name="Default Changelist" comment="" />
+    <list default="true" id="08912f0f-2a7c-4b58-9e2d-bfc15c3c34de" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ideas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/initiator/backend/TieGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/initiator/backend/TieGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/initiator/frontend/AlertBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/initiator/frontend/AlertBox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/initiator/frontend/CombatView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/initiator/frontend/CombatView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/initiator/frontend/MasterListView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/initiator/frontend/MasterListView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/initiator/images/.style.css.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/initiator/images/polygons.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/initiator/images/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/initiator/images/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backend/TieGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backend/TieGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/AlertBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/AlertBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/CombatView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/CombatView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/MasterListView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/MasterListView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/polygons.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/style.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +44,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backend/BackendController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1350">
+            <state relative-caret-position="1278">
               <caret line="92" column="36" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="36" />
               <folding>
                 <element signature="e#2726#2727#0" expanded="true" />
@@ -49,11 +65,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/frontend/CombatView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="276" column="52" selection-start-line="276" selection-start-column="52" selection-end-line="276" selection-end-column="52" />
+            <state relative-caret-position="254">
+              <caret line="277" selection-start-line="277" selection-end-line="277" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/frontend/AlertBox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="63" column="19" lean-forward="true" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -70,13 +95,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backend/TieGroup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+            <state relative-caret-position="306">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
-                <element signature="e#281#282#0" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,8 +117,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/frontend/MasterListView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1296">
-              <caret line="89" column="20" selection-start-line="89" selection-start-column="20" selection-end-line="89" selection-end-column="20" />
+            <state relative-caret-position="301">
+              <caret line="80" column="109" selection-start-line="80" selection-start-column="109" selection-end-line="80" selection-end-column="109" />
             </state>
           </provider>
         </entry>
@@ -112,7 +135,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>getscene</find>
       <find>fileName</find>
       <find>getScene</find>
       <find>listScene</find>
@@ -142,7 +164,11 @@
       <find>Collections</find>
       <find>&quot;\n&quot;</find>
       <find>initsort</find>
+      <find>closeEditInitButton</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -175,15 +201,15 @@
         <option value="$PROJECT_DIR$/src/frontend/ConfirmBox.java" />
         <option value="$PROJECT_DIR$/src/backend/EditJSON.java" />
         <option value="$PROJECT_DIR$/src/frontend/CreateCharacterView.java" />
-        <option value="$PROJECT_DIR$/src/frontend/AlertBox.java" />
         <option value="$PROJECT_DIR$/src/backend/Character.java" />
         <option value="$PROJECT_DIR$/src/backend/CharacterComparator.java" />
         <option value="$PROJECT_DIR$/src/frontend/CharacterDetailView.java" />
         <option value="$PROJECT_DIR$/src/backend/BackendController.java" />
         <option value="$PROJECT_DIR$/src/backend/CharacterInitSortComparator.java" />
-        <option value="$PROJECT_DIR$/src/frontend/MasterListView.java" />
         <option value="$PROJECT_DIR$/src/backend/Model.java" />
         <option value="$PROJECT_DIR$/src/backend/TieGroup.java" />
+        <option value="$PROJECT_DIR$/src/frontend/AlertBox.java" />
+        <option value="$PROJECT_DIR$/src/frontend/MasterListView.java" />
         <option value="$PROJECT_DIR$/src/frontend/CombatView.java" />
       </list>
     </option>
@@ -371,11 +397,13 @@
       <workItem from="1550370003642" duration="35000" />
       <workItem from="1550370076500" duration="10623000" />
       <workItem from="1550780516487" duration="9823000" />
+      <workItem from="1551834728119" duration="11000" />
+      <workItem from="1551834771009" duration="5260000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="215450000" />
+    <option name="totallyTimeSpent" value="220721000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -397,7 +425,6 @@
       <window_info id="Designer" order="4" />
       <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49902534" weight="0.19875222" />
       <window_info id="Structure" order="6" sideWeight="0.50097466" side_tool="true" weight="0.14449213" />
-      <window_info anchor="bottom" id="Statistic" weight="0.32931727" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32797858" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50178254" side_tool="true" weight="0.26639894" />
@@ -407,12 +434,13 @@
       <window_info anchor="bottom" id="Duplicate detector" order="6" weight="0.32797858" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.32797858" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49821746" weight="0.26639894" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.49821746" visible="true" weight="0.26639894" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.28647926" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="13" weight="0.32931727" />
       <window_info anchor="bottom" id="Inspection Results" order="14" weight="0.32931727" />
+      <window_info anchor="bottom" id="Statistic" order="15" weight="0.32931727" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Database" order="2" weight="0.32976827" />
@@ -1020,16 +1048,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/frontend/AlertBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-          <folding>
-            <element signature="e#153#184#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/frontend/MainMenuView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
@@ -1037,13 +1055,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/frontend/MasterListView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1296">
-          <caret line="89" column="20" selection-start-line="89" selection-start-column="20" selection-end-line="89" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -1070,7 +1081,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/backend/BackendController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
+        <state relative-caret-position="1278">
           <caret line="92" column="36" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="36" />
           <folding>
             <element signature="e#2726#2727#0" expanded="true" />
@@ -1103,21 +1114,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/backend/TieGroup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        <state relative-caret-position="306">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontend/AlertBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="63" column="19" lean-forward="true" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontend/MasterListView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="80" column="109" selection-start-line="80" selection-start-column="109" selection-end-line="80" selection-end-column="109" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/frontend/CombatView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="276" column="52" selection-start-line="276" selection-start-column="52" selection-end-line="276" selection-end-column="52" />
+        <state relative-caret-position="254">
+          <caret line="277" selection-start-line="277" selection-end-line="277" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

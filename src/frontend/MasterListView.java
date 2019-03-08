@@ -78,7 +78,7 @@ public class MasterListView {
             combatButton.setDisable(false);
         });
         deleteButton.setOnAction(e -> {
-            boolean confirmation = ConfirmBox.display("Confirm Delete", "Are you sure you want to delete selected character(s)?");
+            boolean confirmation = ConfirmBox.display("Confirm Delete", "Are you sure you want to delete the selected character(s)?");
             if (confirmation) {
                 deleteSelected();
             }

@@ -37,8 +37,6 @@ public class CombatView {
     private static int d12num = 0;
     private static int d20num = 0;
     private static int finalListViewSize = 0;
-//    private static int downIndA = 0;
-//    private static int downIndB = 0;
 
     /**
      * Popup
@@ -59,12 +57,10 @@ public class CombatView {
         Random rand = new Random();
 
         /* image info */
-        // arrows
         ImageView leftArrow = bc.getImage("src/images/leftArrow.png");
         ImageView rightArrow = bc.getImage("src/images/rightArrow.png");
         ImageView upArrow = bc.getImage("src/images/upCarrot.png");
         ImageView downArrow = bc.getImage("src/images/downCarrot.png");
-        // checkmark
         ImageView checkmarkImage = bc.getImage("src/images/checkmark.png");
 
         /* create elements within UI layouts */
@@ -272,25 +268,24 @@ public class CombatView {
                 if (curr == next) {
                     // tie detected, create new TieGroup
                     aTieGroup = new TieGroup(sortedList.get(i).getInitiative());
-                    int j = i; // start index
+                    int tieStart = i; // start index
                     while (sortedList.get(i).getInitiative() == sortedList.get(i+1).getInitiative()) {
                         if (i == sortedList.size()-2) {
+                            i++;
                             break;
+                        } else {
+                            i++; // end index
                         }
-                        i++; // end index
                     }
-//                    System.out.println("Start: " + j);
-//                    System.out.println("End: " + i);
-                    for (int k = j; k <= i; k++) {
+                    for (int k = tieStart; k <= i; k++) {
                         aTieGroup.addCharacter(sortedList.get(k).getName());
                     }
                     tieList.add(aTieGroup);
                 }
             }
-            for (TieGroup tg : tieList) {
-                tg.printTieGroup();
+            if (!tieList.isEmpty()) {
+                AlertBox.displayTies("Tie Detected", "The following characters are tied in initiative:\n", tieList);
             }
-
 
         });
         deleteButton.setOnAction(e -> {
