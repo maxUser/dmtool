@@ -6,7 +6,6 @@ TODO
 -variable size windows
 -save every combat list, including datetime
 -load a specific combat
--when clicking init button in combatView, initField should be automatically selected
 +
 -make delete confirmation view nicer
 -dead button (skull) in combatView
@@ -22,6 +21,7 @@ TODO
 
 
 COMPLETE
+X-when clicking init button in combatView, initField should be automatically selected
 X-fix buttons spazzing out when hovered over (combatView)
 	-caused by rowconstraints
 X-tie detection: press sort; if tie, window pops up telling user who tied
