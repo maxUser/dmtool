@@ -4,19 +4,9 @@
     <list default="true" id="08912f0f-2a7c-4b58-9e2d-bfc15c3c34de" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ideas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ideas.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/initiator/backend/TieGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/initiator/backend/TieGroup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/initiator/frontend/AlertBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/initiator/frontend/AlertBox.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/initiator/frontend/CombatView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/initiator/frontend/CombatView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/initiator/frontend/MasterListView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/initiator/frontend/MasterListView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/initiator/images/.style.css.swp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/initiator/images/polygons.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/initiator/images/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/initiator/images/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backend/TieGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backend/TieGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/frontend/AlertBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/AlertBox.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/frontend/CombatView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/CombatView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/frontend/MasterListView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/MasterListView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/polygons.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/frontend/CombatView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="277" selection-start-line="277" selection-end-line="277" />
+            <state relative-caret-position="249">
+              <caret line="488" column="28" selection-start-line="488" selection-start-column="28" selection-end-line="488" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/src/frontend/AlertBox.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="364">
-              <caret line="63" column="19" lean-forward="true" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
+              <caret line="63" column="19" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -135,8 +125,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>fileName</find>
-      <find>getScene</find>
       <find>listScene</find>
       <find>fc</find>
       <find>b1</find>
@@ -165,6 +153,8 @@
       <find>&quot;\n&quot;</find>
       <find>initsort</find>
       <find>closeEditInitButton</find>
+      <find>align</find>
+      <find>combatLis</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -398,12 +388,20 @@
       <workItem from="1550370076500" duration="10623000" />
       <workItem from="1550780516487" duration="9823000" />
       <workItem from="1551834728119" duration="11000" />
-      <workItem from="1551834771009" duration="5260000" />
+      <workItem from="1551834771009" duration="7359000" />
     </task>
+    <task id="LOCAL-00001" summary="finished init dealing with init ties">
+      <created>1552017516551</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552017516551</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="220721000" />
+    <option name="totallyTimeSpent" value="222820000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -486,6 +484,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished init dealing with init ties" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished init dealing with init ties" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1126,7 +1128,7 @@
     <entry file="file://$PROJECT_DIR$/src/frontend/AlertBox.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
-          <caret line="63" column="19" lean-forward="true" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
+          <caret line="63" column="19" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1139,8 +1141,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/frontend/CombatView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="277" selection-start-line="277" selection-end-line="277" />
+        <state relative-caret-position="249">
+          <caret line="488" column="28" selection-start-line="488" selection-start-column="28" selection-end-line="488" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

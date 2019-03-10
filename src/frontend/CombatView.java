@@ -3,11 +3,14 @@ package frontend;
 import backend.*;
 import backend.Character;
 import javafx.collections.ObservableList;
+import javafx.event.EventHandler;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.scene.image.ImageView;
 
+import javafx.scene.input.KeyCode;
+import javafx.scene.input.KeyEvent;
 import javafx.scene.layout.*;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
@@ -117,7 +120,6 @@ public class CombatView {
         initValueLabel = new Label();
         initLabel = new Label("Init:");
 
-
         ListView<String> combatListView = new ListView<>();
         combatListView.getSelectionModel().setSelectionMode(SelectionMode.SINGLE);
         combatListView.getSelectionModel().selectedItemProperty().addListener((ObservableValue, oldValue, newValue) -> {
@@ -134,7 +136,6 @@ public class CombatView {
                 }
             }
         });
-
         /* populate combatListView */
         combatListView.getItems().clear();
         for(Character c : bc.getCombatListCopy()) {
@@ -165,7 +166,8 @@ public class CombatView {
         GridPane.setConstraints(initValueLabel, 1, 2);
         GridPane.setConstraints(initField, 1, 2);
         GridPane.setConstraints(closeEditInitButton, 2, 2);
-        centreMenu.getRowConstraints().addAll(row0, row1, row2);
+        /* rowconstraints causes the bug where buttons change sizes when you hover/click on them */
+//        centreMenu.getRowConstraints().addAll(row0, row1, row2);
         // rightMenu
         GridPane rightMenu = GenerateGridPane.getGrid();    // round counter/die roller
         GridPane.setConstraints(roundLabel, 0, 0);
@@ -203,18 +205,15 @@ public class CombatView {
             try {
                 int upIndA = combatListView.getSelectionModel().getSelectedIndex();
                 int upIndB = upIndA - 1;
-
                 if (upIndA == 0) {
                     // swap top char with bottom char
                     upIndB = bc.getCombatListCopy().size() - 1;
                 }
-
                 Collections.swap(bc.getCombatList(), upIndA, upIndB);
                 combatListView.getItems().clear();
                 for (Character c : bc.getCombatList()) {
                     combatListView.getItems().add(c.getName());
                 }
-
                 if (upIndA == 0) {
                     combatListView.getSelectionModel().select(bc.getCombatListCopy().size()-1);
                 } else {
@@ -228,18 +227,15 @@ public class CombatView {
             try {
                 int downIndA = combatListView.getSelectionModel().getSelectedIndex();
                 int downIndB = downIndA + 1;
-
                 if (downIndA == bc.getCombatListCopy().size()-1) {
                     // swap bottom char with top char
                     downIndB = 0;
                 }
-
                 Collections.swap(bc.getCombatList(), downIndA, downIndB);
                 combatListView.getItems().clear();
                 for (Character c : bc.getCombatList()) {
                     combatListView.getItems().add(c.getName());
                 }
-
                 if (downIndA == bc.getCombatListCopy().size()-1) {
                     combatListView.getSelectionModel().select(0);
                 } else {
@@ -250,7 +246,7 @@ public class CombatView {
             }
         });
         sortButton.setOnAction(e -> {
-            ArrayList<Character> sortedList = bc.getCombatListCopy();
+            ArrayList<Character> sortedList = bc.getCombatList();
             Collections.sort(sortedList, new CharacterInitSortComparator()); // sort by initiative
             combatListView.getItems().clear();
             for (Character c : sortedList) {
@@ -286,7 +282,6 @@ public class CombatView {
             if (!tieList.isEmpty()) {
                 AlertBox.displayTies("Tie Detected", "The following characters are tied in initiative:\n", tieList);
             }
-
         });
         deleteButton.setOnAction(e -> {
             int index = combatListView.getSelectionModel().getSelectedIndex();
@@ -296,21 +291,19 @@ public class CombatView {
         initButton.setOnAction(e -> {
             centreMenu.getChildren().removeAll(initButton, initValueLabel);
             centreMenu.getChildren().addAll(initField, closeEditInitButton, initLabel);
+            initField.requestFocus();
+            closeEditInitButton.isDefaultButton();
         });
         closeEditInitButton.setOnAction(e -> {
-            try {
-                String charName = combatListView.getSelectionModel().getSelectedItem();
-                Character selectedChar = bc.getCharacterFromNameCombat(charName);
-                String newInit = initField.getText();
-                int newInitInt = Integer.parseInt(newInit);
-                initValueLabel.setText(newInit);
-                selectedChar.setInitiative(newInitInt);
-            } catch (NumberFormatException x) {
-                AlertBox.display("Invalid Input", "Please enter a digit (i.e. 11)");
+            enterInitiative(combatListView, bc, initField, initValueLabel, centreMenu, closeEditInitButton, initLabel, initButton);
+        });
+        initField.setOnKeyPressed(new EventHandler<KeyEvent>() {
+            @Override
+            public void handle(KeyEvent keyEvent) {
+                if (keyEvent.getCode() == KeyCode.ENTER)  {
+                    enterInitiative(combatListView, bc, initField, initValueLabel, centreMenu, closeEditInitButton, initLabel, initButton);
+                }
             }
-            initField.setText("0");
-            centreMenu.getChildren().removeAll(initField, closeEditInitButton, initLabel);
-            centreMenu.getChildren().addAll(initButton, initValueLabel);
         });
         duplicateButton.setOnAction(e -> {
             // this is a bitch, apologies to future me
@@ -484,7 +477,23 @@ public class CombatView {
         }
     }
 
-    private void increment() {
+    private static void enterInitiative(ListView<String> combatListView, BackendController bc, TextField initField, Label initValueLabel, GridPane centreMenu, Button closeEditInitButton, Label initLabel, Button initButton) {
+        try {
+            String charName = combatListView.getSelectionModel().getSelectedItem();
+            int selectedIndex = combatListView.getSelectionModel().getSelectedIndex();
+            Character selectedChar = bc.getCharacterFromNameCombat(charName);
+            String newInit = initField.getText();
+            int newInitInt = Integer.parseInt(newInit);
+            initValueLabel.setText(newInit);
+            selectedChar.setInitiative(newInitInt);
+            selectedIndex++;
+            combatListView.getSelectionModel().select(selectedIndex);
+        } catch (NumberFormatException x) {
+            AlertBox.display("Invalid Input", "Please enter a digit (i.e. 11)");
+        }
+        initField.setText("0");
+        centreMenu.getChildren().removeAll(initField, closeEditInitButton, initLabel);
+        centreMenu.getChildren().addAll(initButton, initValueLabel);
 
     }
 }
